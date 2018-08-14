@@ -1,2 +1,4 @@
 # Machine Learning
-# Kaggle Competitions
+<p> This repository contains attempts at a few machine learning competitions.
+  
+ </p>
