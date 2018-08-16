@@ -2,6 +2,11 @@
 <p> This repository contains attempts at three machine learning competitions.
  </p>
 
+### stores.pynb 
+Data visualisation and analysis of store-item data.<br>
+Objective   - Predict the next three months of sales.<br>
+Data source -  'https://www.kaggle.com/c/demand-forecasting-kernels-only/'
+
 ### Merc.pynb 
 Data visualisation and analysis of Mercedes Benz Greener Manufacturing dataset.<br>
 Objective   - Predict the length of time required to test a car in the factory.<br>
